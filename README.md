@@ -11,7 +11,7 @@
 
 ![alt text](https://github.com/Jyotsna-Singh/JobFinds/blob/master/app/webroot/img/sort.png "Search jobs") |
 
-![alt text](https://github.com/Jyotsna-Singh/JobFinds/blob/master/app/webroot/img/register.PNG "Register")  | 
+![alt text](https://github.com/Jyotsna-Singh/JobFinds/blob/master/app/webroot/img/register.PNG "Register")
 
 ## Vendors
 CakePHP - [http://cakephp.org/](http://cakephp.org/)  
