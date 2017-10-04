@@ -7,9 +7,9 @@
   * MVC, PHP OOP, PHPMyAdmin, PDO & Prepared Statements
   * MySQL CRUD, Superglobals (GET, POST), Associative Arrays
 
-![alt text](https://github.com/Jyotsna-Singh/JobFinds/blob/master/app/webroot/img/home.PNG "Home")  | 
+![alt text](https://github.com/Jyotsna-Singh/JobFinds/blob/master/app/webroot/img/home.PNG "Home")  
 
-![alt text](https://github.com/Jyotsna-Singh/JobFinds/blob/master/app/webroot/img/sort.png "Search jobs") |
+![alt text](https://github.com/Jyotsna-Singh/JobFinds/blob/master/app/webroot/img/sort.png "Search jobs") 
 
 ![alt text](https://github.com/Jyotsna-Singh/JobFinds/blob/master/app/webroot/img/register.PNG "Register")
 
